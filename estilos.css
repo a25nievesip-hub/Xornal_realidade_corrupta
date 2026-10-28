@@ -1,0 +1,41 @@
+#portada{
+    background-color: aqua;
+}
+#rock_e_rap{
+    background-color: blueviolet;
+}
+#heavy_metal{
+    background-color: coral;
+}
+
+.contenedor{
+    float: left;
+    padding: 15px;
+    border: 2px solid black;
+    width: 33.33%;
+    box-sizing: border-box;
+    max-height: 500px;
+    overflow: auto;
+}
+.contenedor{
+    display: flow-root;
+}
+.enlace{
+    clear: both;
+    text-align: right;
+    padding: 50px;
+}
+header{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+body{
+    padding-top: 1px;
+}
+#footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
