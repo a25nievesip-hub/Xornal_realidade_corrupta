@@ -1,0 +1,1 @@
+# Xornal_realidade_corrupta
